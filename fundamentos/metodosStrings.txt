@@ -1,0 +1,107 @@
+Method	Description
+capitalize()	
+Convierte el primer caracter a mayuscula
+
+ 
+
+casefold()	
+Convierte el string a minuscula
+
+ 
+
+center()	
+Retorna un string centrado
+
+ 
+
+count()	
+Retorna el numero de veces que un valor especifico ocurre en un string
+
+ 
+
+endswith()	
+Retorna verdadero si el string termina con el valor especificado
+
+ 
+
+find()	
+Busca en el string por un valor especifico y retorna la posicion donde fue encontrado
+
+ 
+
+index()	
+Busca en el string por un valor especifico y retorna la posicion donde fue encontrado
+
+ 
+
+islower()	
+Retorna verdadero si todos los caracteres del string estan en minuscula
+
+ 
+
+isnumeric()	
+Retorna verdadero si todos los caracteres del string son numeros
+
+ 
+
+istitle()	
+Retorna verdadero si el string cumple las reglas de un titulo
+
+ 
+
+isupper()	
+Retorna verdadero si todos los caracteres del string estan en mayuscula
+
+ 
+
+join()	
+Convierte los elementos de un interable en un string
+
+ 
+
+lower()	
+Convierte un string a minuscula
+
+ 
+
+partition()	
+Retorna una tupla donde el string es partido en tres
+
+ 
+
+replace()	
+Retorna un string donde  un valor especifico es remplazado por otro
+
+ 
+
+split()	
+Dividde el string en el separador especificado y retorna una lista
+
+ 
+
+startswith()	
+Retorna verdadero si el string comienza con el valor especificado
+
+ 
+
+strip()	
+Retorna un string sin los espacios del inicio ni del final
+
+ 
+
+swapcase()	
+Minusculas se convierten en mayusculas y viceversa
+
+ 
+
+title()	
+Convirte el primer caracter de cada palabra en mayuscula
+
+ 
+
+upper()	
+Convierte un string a mayuscula
+
+ 
+
+zfill()	Añade un numero especifico de 0 al inicio del string
